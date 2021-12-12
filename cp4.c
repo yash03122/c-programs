@@ -6,5 +6,6 @@ void main()
     c=a-b;
     printf("answer is %d",c);
     printf("answer is %d",c);
+    printf("answer is %d",c);
     getch();
 }
